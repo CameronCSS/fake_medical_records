@@ -16,7 +16,7 @@ Realistic patient records datasets created for data analysis using Python's Fake
 
 
 ## 🎥 Video
-You can view a video about how I created this dataset [HERE]()
+You can view a video about how I created this dataset [HERE](https://www.youtube.com/watch?v=kjffmtKYxwY)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
